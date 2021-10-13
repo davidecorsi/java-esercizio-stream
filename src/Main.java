@@ -1,8 +1,6 @@
 
 /*
- * Trasformate una lista di stringhe in una mappa dove la chiave sono le stringhe racchiuse tra apici 
- * singoli e il valore è la lunghezza della stringa stessa, inoltre la mappa deve essere ordinata. 
- * Utilizzate gli stream.
+ * Trasformate questa lista aggiungendo degli apici singoli all'inizio ed alla fine di ogni stringa. 
  */
 public class Main {
 	public static void main(String[] args) {
